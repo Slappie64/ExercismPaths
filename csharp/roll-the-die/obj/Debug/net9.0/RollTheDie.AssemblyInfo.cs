@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HelloWorld")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RollTheDie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08cd9d85703cfaa8c14befbae19fae3bb749223b")]
-[assembly: System.Reflection.AssemblyProductAttribute("HelloWorld")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HelloWorld")]
+[assembly: System.Reflection.AssemblyProductAttribute("RollTheDie")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RollTheDie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyMetadata("Microsoft.Testing.Platform.Application", "True")]
 
