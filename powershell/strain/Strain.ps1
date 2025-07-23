@@ -22,7 +22,9 @@ Function Invoke-Keep() {
         [Object[]]$Data,
         [ScriptBlock]$Predicate
     )
-    Throw "Please implement this function"
+    
+    
+    return $Data | Where-Object {& $Predicate $_}
 }
 
 Function Invoke-Discard() {
@@ -49,5 +51,5 @@ Function Invoke-Discard() {
         [Object[]]$Data,
         [ScriptBlock]$Predicate
     )
-    Throw "Please implement this function"
+    return $Data | Where-Object  {-not (& $Predicate $_)}
 }
