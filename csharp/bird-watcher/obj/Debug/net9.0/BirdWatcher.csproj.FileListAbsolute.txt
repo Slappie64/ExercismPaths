@@ -1,0 +1,8 @@
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\09 - Exercism Paths\csharp\bird-watcher\obj\Debug\net9.0\BirdWatcher.csproj.AssemblyReference.cache
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\09 - Exercism Paths\csharp\bird-watcher\obj\Debug\net9.0\BirdWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\09 - Exercism Paths\csharp\bird-watcher\obj\Debug\net9.0\BirdWatcher.AssemblyInfoInputs.cache
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\09 - Exercism Paths\csharp\bird-watcher\obj\Debug\net9.0\BirdWatcher.AssemblyInfo.cs
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\09 - Exercism Paths\csharp\bird-watcher\obj\Debug\net9.0\BirdWatcher.csproj.CoreCompileInputs.cache
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\09 - Exercism Paths\csharp\bird-watcher\obj\Debug\net9.0\BirdWatcher.genautoregisteredextensionsinputcache.cache
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\09 - Exercism Paths\csharp\bird-watcher\obj\Debug\net9.0\AutoRegisteredExtensions.cs
+C:\Users\slapp\OneDrive\04-DEVELOPMENT\02 - Projects\09 - Exercism Paths\csharp\bird-watcher\obj\Debug\net9.0\BirdWatcher.sourcelink.json
