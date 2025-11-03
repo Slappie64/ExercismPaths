@@ -18,11 +18,9 @@ solutions/
 │   └── leap/
 └── ...
 
-Language folders → Grouped by track (C#, Python, etc.)
-
-Exercise folders → Contain solution code + notes
-
-README.md per exercise → Short explanation, approach, and test results
+ - Language folders → Grouped by track (C#, Python, etc.)
+ - Exercise folders → Contain solution code + notes
+ - README.md per exercise → Short explanation, approach, and test results
 
 ## 🚀 Goals
 
@@ -40,19 +38,16 @@ README.md per exercise → Short explanation, approach, and test results
 ## 📖 How to Use
 
 Clone the repo:
-git clone https://github.com/<your-username>/exercism.git
+`git clone https://github.com/<your-username>/exercism.git`
 
 Navigate to a track:
-
-cd exercism/python/leap
+`cd exercism/python/leap`
 
 Run tests (example for Python):
-
-pytest
+`pytest`
 
 Or for C#:
-
-dotnet test
+`dotnet test`
 
 ## 🧠 Learning Philosophy
 
