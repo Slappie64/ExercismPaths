@@ -38,17 +38,12 @@ solutions/
 
 ## 📖 How to Use
 
-Clone the repo:
+ - Clone the repo:
 `git clone https://github.com/<your-username>/exercism.git`
-
-Navigate to a track:
-`cd exercism/python/leap`
-
-Run tests (example for Python):
-`pytest`
-
-Or for C#:
-`dotnet test`
+ - Navigate to a track:
+`cd solution/python/leap`
+ - Run tests (example for Python):
+`exercism test`
 
 ## 🧠 Learning Philosophy
 
@@ -65,7 +60,7 @@ Documentation → Capture reasoning, not just code
 
 ## 🤝 Contributing
 
-This repo is primarily for my personal learning journey, but feedback and suggestions are always welcome. If you spot improvements, feel free to open an issue or PR.
+This repo is primarily for my personal learning journey, but feedback and suggestions are always welcome.
 
 ## 📜 License
 
