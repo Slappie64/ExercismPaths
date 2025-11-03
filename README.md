@@ -38,16 +38,20 @@ solutions/
 ## 📖 How to Use
 
 Clone the repo:
-`git clone https://github.com/<your-username>/exercism.git`
+```powershell
+git clone https://github.com/<your-username>/exercism.git
 
 Navigate to a track:
-`cd exercism/python/leap`
+```powershell
+cd exercism/python/leap
 
 Run tests (example for Python):
-`pytest`
+```powershell
+pytest
 
 Or for C#:
-`dotnet test`
+```powershell
+dotnet test
 
 ## 🧠 Learning Philosophy
 
