@@ -3,8 +3,9 @@
 Welcome to my Exercism Solutions Repository 🎯This repo contains my solutions to coding challenges from Exercism. Each exercise is organized by track and language, with a focus on clarity, maintainability, and learning progression.
 
 ## 📂 Repository Structure
-"""
-exercism/
+
+```plaintext
+solutions/
 ├── csharp/
 │   ├── hello-world/
 │   │   ├── HelloWorld.cs
@@ -16,7 +17,7 @@ exercism/
 │   │   └── README.md
 │   └── leap/
 └── ...
-"""
+
 Language folders → Grouped by track (C#, Python, etc.)
 
 Exercise folders → Contain solution code + notes
