@@ -17,6 +17,7 @@ solutions/
 │   │   └── README.md
 │   └── leap/
 └── ...
+```
 
  - Language folders → Grouped by track (C#, Python, etc.)
  - Exercise folders → Contain solution code + notes
@@ -38,20 +39,16 @@ solutions/
 ## 📖 How to Use
 
 Clone the repo:
-```powershell
-git clone https://github.com/<your-username>/exercism.git
+`git clone https://github.com/<your-username>/exercism.git`
 
 Navigate to a track:
-```powershell
-cd exercism/python/leap
+`cd exercism/python/leap`
 
 Run tests (example for Python):
-```powershell
-pytest
+`pytest`
 
 Or for C#:
-```powershell
-dotnet test
+`dotnet test`
 
 ## 🧠 Learning Philosophy
 
